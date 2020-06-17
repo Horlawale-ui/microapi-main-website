@@ -1,0 +1,59 @@
+.how-header{
+  margin-top: 20px;
+  text-align: center;
+}
+.how-header h1{
+font-weight: 500;
+font-size: 32px;
+line-height: 40px;
+color: #372750;
+}
+.how-header p{
+height: 73px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+text-align: center;
+color: #000000;
+padding: 0 20%;
+}
+.info{
+  background-color: rgba(245, 245, 220, 0.12);
+  margin: 40px 0;
+  display: flex;
+  align-content: space-between;
+}
+figure{
+  text-align: center;
+}
+
+.last{
+ width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.hover-image h2{
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+color: #372750;
+}
+.hover-image p{
+height: 115px;
+font-size: 16px;
+line-height: 30px;
+color: #000000;
+}
+.hover-image{
+  background-color: white;
+  text-align: center;
+  margin-right: -60px;
+    z-index: 1;
+}
+.last img{
+   width: 100%;
+    object-fit: cover;
+}
